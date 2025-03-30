@@ -20,5 +20,5 @@ Android 앱과 FastAPI 서버를 연동하여 음성 및 영상 데이터를 실
    - 모델 학습 과정과 결과는 PPT 및 보고서로 정리.
 
 ## 참고 자료
-- **모델 코드**
-- **시연 영상 및 프로젝트 설명**: [PPT]
+- **모델 코드**: https://huggingface.co/SweetGuard
+- **시연 영상 및 프로젝트 설명**: [[SweetHome.pdf](https://github.com/user-attachments/files/19525383/SweetHome.pdf)]
